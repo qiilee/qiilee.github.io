@@ -7,10 +7,8 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3576791547,2830609149&fm=23&gp=0.jpg" align="center"></p>
+    <p>我是齐磊,一名前端开发工程师。</p>
 </center>
-
-我是齐磊,前端开发工程师
 
 
 ### 最近在干嘛？
@@ -44,8 +42,8 @@ header-img: "img/green.jpg"
 - QQ号：892762216
 
 
-<center>
-    <p><img src="../img/qrcode.jpg" align="center"></p>
+<center> 
+    <p><img src="../img/qrcode.jpg" align="center" style="width:350px;height:350px;"></p>
 </center>
 
 
