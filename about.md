@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 
-### 我是齐磊,一名前端开发工程师。
+- 我是齐磊,一名前端开发工程师。
 
 
 
@@ -39,12 +39,11 @@ header-img: "img/green.jpg"
 - [GitHub@qiilee](https://github.com/qiilee)
 - [GitHub@blog](https://qiilee.github.io)
 - [个人网站](http://www.qiilee.online)
-
 - QQ号：892762216
 
 
 <center> 
-    <p><img src="../img/qrcode.jpg" align="center" style="width:350px;height:350px;"></p>
+    <p><img src="../img/qrcode.jpg" align="center" style="width:200px;height:200px;"></p>
 </center>
 
 
