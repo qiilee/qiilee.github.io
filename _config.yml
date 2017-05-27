@@ -1,27 +1,27 @@
 # Site settings
-title: 读立写生
+title: Crazy Stone
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "齐磊|欲学惊人艺·须下苦功夫"  
 baseurl: ""
-url: "http://www.cnfeat.com"  
+url: "http://www.qiilee.online"  
 
 # About/contact
 owner: 
-  name: " CNFeat"
-  email: CnFeat@gmail.com
+  name: "Lei Qi"
+  email: qiilee@126.com
   bio: "写就是写的报酬"
 
 # Data
 gavatar: http://openmindclub.qiniudn.com/omt/GavatarCNFeat.png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+douban_username:  qiilee
+twitter_username: qiilee
+github_username: qiilee
+facebook_username: qiilee
+weibo_username: qiilee 
+zhihu_username: qiilee
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -42,16 +42,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CNFeat"
+      author: "qiilee"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : disqus
   duoshuo :
-    short_name : cnfeat
+    short_name : qiilee
   disqus :
-      short_name : cnfeat
+      short_name : qiilee
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-80884545-1
@@ -60,4 +60,3 @@ google_verify:
 bing_verify:
 
 # Links to include in footer navigation
-theme: jekyll-theme-cayman
