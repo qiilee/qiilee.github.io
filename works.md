@@ -7,7 +7,7 @@ header-img: "img/semantic.jpg"
 
 
 <center>
-    <p><img src="./img/cnfeat.jpg" align="center"></p>
+    <p><img src="../img/cnfeat.jpg" align="center"></p>
 </center>
 
 
