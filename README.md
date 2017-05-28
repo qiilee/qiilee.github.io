@@ -1,9 +1,11 @@
-##说明
+﻿##说明
 
-我是齐磊，邮箱：qiilee@126.com
+我是齐磊，
+前端工程师，
+邮箱：qiilee@126.com
 
-此博客借鉴自 [cnfeat](https://github.com/cnfeat)
-             [Azeril](https://github.com/Azeril)
+此博客模板借鉴自 [cnfeat](https://github.com/cnfeat)
+                 [Azeril](https://github.com/Azeril)
 
 ##坚持
 
