@@ -1,4 +1,4 @@
-﻿##说明
+﻿## 说明
 
 我是齐磊，
 前端工程师，
@@ -7,7 +7,7 @@
 此博客模板借鉴自 [cnfeat](https://github.com/cnfeat)
                  [Azeril](https://github.com/Azeril)
 
-##坚持
+## 坚持
 
 - 迭代开发，价值优先
 - 分解任务，真实进度
@@ -21,7 +21,7 @@
 - 不断学习，提高能力
 
 
-##感谢
+## 感谢
 
 - 感谢「cnfeat」 http://cnfeat.com
       「Azeril」 http://azeril.com   
